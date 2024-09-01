@@ -25,7 +25,7 @@
 
 
 
-### 🛠 &nbsp;Tech Skills
+### 🛠 &nbsp;Tech Stack
 ![MYSQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=MYSQL)&nbsp;
 ![SSMS](https://img.shields.io/badge/-SSMS-05122A?style=flat&logo=SSMS&logoColor=563D7C)&nbsp;
 ![SSIS](https://img.shields.io/badge/-SSIS-05122A?style=flat&logo=SSIS&logoColor=1572B6)&nbsp;
